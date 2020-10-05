@@ -131,3 +131,13 @@ html, body {
 .fa-google-plus-g:hover,.fa-youtube:hover {
     color: #d5d5d5;
 }
+
+footer {
+    background-color: #3f3f3f;
+    color: white;
+    padding-top: 2rem;
+}
+
+hr.light {
+    border-top: 1px solid #d5d5d5;
+}
